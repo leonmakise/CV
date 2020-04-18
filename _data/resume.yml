@@ -62,11 +62,11 @@ main: #简历主要内容，
   name: 论文
   content:
   - title: Pseudo Supervised Matrix Factorization in Discriminative Subspace
-    detail: 本人一作，已被收录为正会论文，ORAL+POSTER。(CCF A类)
-    sub: IJCAI 2019
+    detail: 本人一作，已被收录为正会论文，ORAL+POSTER。
+    sub: IJCAI 2019 (CCF A类)
   - title: Discriminative Subspace Matrix Factorization for Multiview Data Clustering
-    detail: 本人一作，被接受为short paper。（CCF B类）
-    sub: ICDM 2019
+    detail: 本人一作，被接受为short paper。
+    sub: ICDM 2019 （CCF B类）
     
    others: #其他列表显示
 - type: others #ID可以为空
