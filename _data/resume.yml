@@ -65,7 +65,7 @@ main: #简历主要内容，
     detail: 本人一作，已被收录为正会论文，ORAL+POSTER。(CCF A类)
     sub: IJCAI 2019
   - title: Discriminative Subspace Matrix Factorization for Multiview Data Clustering
-    detail:本人一作，被接受为short paper。（CCF B类）
+    detail: 本人一作，被接受为short paper。（CCF B类）
     sub: ICDM 2019
    #可继续添加更多内容
 #页面额外js脚本，如xx统计
