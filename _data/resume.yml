@@ -59,7 +59,7 @@ main: #简历主要内容，
 
 
 - type: projects
-  name: Projects
+  name: 科研
   content:
   - title: Pseudo Supervised Matrix Factorization in Discriminative Subspace
     detail: 本人一作，已被收录为正会论文，ORAL+POSTER。
@@ -68,12 +68,7 @@ main: #简历主要内容，
     detail: 本人一作，被接受为short paper。
     sub: ICDM 2019 （CCF B类）
     
-   others: #其他列表显示
-- type: others #ID可以为空
-  name: 其他
-  content: #选择需要的格式
-  - 在导师指导下，编写了国家自然科学基金申请书，作为项目参与人，申报了国家自然科学基金委员会面上项目：基于矩阵分解的多视图数据特征提取与深度聚类（6207022892）
-
+  
  
 #页面额外js脚本，如xx统计
 scripts:
