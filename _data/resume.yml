@@ -4,7 +4,7 @@
 title: "简历"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "马嘉祺"
-jobtitle: "技术研究-机器学习方向" #可空不显示
+jobtitle: "申请岗位：技术研究-机器学习方向" #可空不显示
 photo: "assets/img/1.png" #照片可空，不显示
 
 #联系方式
