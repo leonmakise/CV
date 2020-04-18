@@ -61,18 +61,14 @@ main: #简历主要内容，
 - type: projects
   name: 科研
   content:
-  - title: Pseudo Supervised Matrix Factorization in Discriminative Subspace
+  - title: 《Pseudo Supervised Matrix Factorization in Discriminative Subspace》
     detail: 本人一作，已被收录为正会论文，ORAL+POSTER。
     sub: IJCAI 2019 (CCF A类)
-  - title: Discriminative Subspace Matrix Factorization for Multiview Data Clustering
+  - title: 《Discriminative Subspace Matrix Factorization for Multiview Data Clustering》
     detail: 本人一作，被接受为short paper。
-    sub: ICDM 2019 （CCF B类）
-    
-- type: others #ID可以为空
-  name: '其他'
-  content:   
-  - title: "参与项目:"
-    text: "编写国家自然科学基金申请书，作为项目参与人申报了国家自然科学基金委员会面上项目：基于矩阵分解的多视图数据特征提取与深度聚类（6207022892）"
+    sub: ICDM 2019 （CCF B类） 
+  - title: 基金项目:基于矩阵分解的多视图数据特征提取与深度聚类（6207022892）
+    text: 编写国家自然科学基金申请书，作为项目参与人申报了国家自然科学基金委员会面上项目。
 
  
 #页面额外js脚本，如xx统计
