@@ -32,11 +32,11 @@ main: #简历主要内容，
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
   - title: 武汉大学
     duration: "2018年9月 - 2021年6月"
-    sub: 硕士
+    sub: 硕士（前5%）
     detail: 计算机科学与技术
   - title: 郑州大学
     duration: 2014年9月 - 2018年6月
-    sub: 本科
+    sub: 本科（前5%，保研）
     detail: 计算机科学与技术
 
 - type: skills
@@ -67,7 +67,14 @@ main: #简历主要内容，
   - title: Discriminative Subspace Matrix Factorization for Multiview Data Clustering
     detail: 本人一作，被接受为short paper。（CCF B类）
     sub: ICDM 2019
-   #可继续添加更多内容
+    
+   others: #其他列表显示
+- type: others #ID可以为空
+  name: '其他'
+  content: #选择需要的格式
+  - 在导师指导下，编写了国家自然科学基金申请书，作为项目参与人，申报了国家自然科学基金委员会面上项目：基于矩阵分解的多视图数据特征提取与深度聚类（6207022892）
+
+ 
 #页面额外js脚本，如xx统计
 scripts:
 #- src: "assets/js/resume.js"
